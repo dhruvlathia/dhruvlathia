@@ -31,6 +31,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Batch Script](https://img.shields.io/badge/-Batch%20Script-4B4B4B?style=flat)
 
 ---
 
@@ -42,9 +47,11 @@
 
 ---
 
+<div align="center">
 ### 📈 WakaTime Stats (Last 7 Days)
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvlathia&layout=compact&hide_border=true)](https://wakatime.com/@dhruvlathia)
+</div>
 
 ---
 
