@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-### 📈 WakaTime Stats (Last 7 Days)
+<h3>📈 WakaTime Stats (Last 7 Days)</h3>
 
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvlathia&layout=compact&hide_border=true)](https://wakatime.com/@dhruvlathia)
 </div>
